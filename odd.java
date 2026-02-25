@@ -6,6 +6,7 @@ class GFG {
             System.out.println("Entered Number is Even");
         } else {
             System.out.println("Entered Number is Odd");
+            System.out.println("done");
         }
     }
 }
