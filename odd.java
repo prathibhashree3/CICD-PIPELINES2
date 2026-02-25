@@ -7,7 +7,6 @@ class GFG {
         } else {
             System.out.println("Entered Number is Odd");
             System.out.println("done");
-	    System.out.println("finesh");
         }
     }
 }
